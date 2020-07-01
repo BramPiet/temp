@@ -1,2 +1,2 @@
 # temp
-temporary 
+temporary repository 
